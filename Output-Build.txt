@@ -1,0 +1,11 @@
+﻿1>------ Build started: Project: WiFiSniffer, Configuration: Debug Win32 ------
+1>WE310If.cpp
+1>WiFiSnifferForm.cpp
+1>WiresharkIf.cpp
+1>c:\work\wifi\wifi_sniffer\code\wifisniffer\wiresharkif.h(59): warning C4129: 'p': unrecognized character escape sequence
+1>c:\work\wifi\wifi_sniffer\code\wifisniffer\wiresharkif.h(59): warning C4129: 'w': unrecognized character escape sequence
+1>Generating Code...
+1>WE310If.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+1>WiFiSniffer.vcxproj -> C:\work\wifi\wifi_sniffer\Code\WiFiSniffer\Debug\WiFiSniffer.exe
+1>Done building project "WiFiSniffer.vcxproj".
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
